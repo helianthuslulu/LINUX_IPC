@@ -35,6 +35,11 @@
  *msgflg:用来指明核心程序在队列没有数据的情况下应采取的行动。
  *
 */
+
+
+//add a rubish
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
